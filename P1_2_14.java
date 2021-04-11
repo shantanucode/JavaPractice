@@ -5,7 +5,7 @@ public class P1_2_14 {
 		int a=16,b=8;
 		if( a%b ==0)
 		{
-			System.out.println("True");
+			System.out.println("True"); //for printing  true
 		}
 		
 		else
